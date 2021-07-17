@@ -1,0 +1,13 @@
+# a=input()
+# b=input()
+# a=int(a)
+# c=b[0]
+# d=b[1]
+# e=b[2]
+# c=int(c)
+# d=int(d)
+# e=int(e)
+# print(a*e)
+# print(a*d)
+# print(a*c)
+# print(a*c*100+a*d*10+a*e)
